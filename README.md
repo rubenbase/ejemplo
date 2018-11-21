@@ -6,3 +6,9 @@ Zumo de naranja
 Aceite
 Queso
 Jamón
+
+## Frutas
+
+Naranja
+Pera
+Manzana
